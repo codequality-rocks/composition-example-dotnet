@@ -13,6 +13,7 @@ namespace SoccerSquatManager.Console
             var trainingSession = new TrainingSession(training, new PlayerRepository(new PlayerDb()));
             trainingSession.WarmUp();
             trainingSession.Shooting();
+            System.Console.WriteLine("Player Trained");
         }
     }
 }
