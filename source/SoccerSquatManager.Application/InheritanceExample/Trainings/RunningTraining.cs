@@ -1,6 +1,6 @@
-using SoccerSquatManager.Console.Entities;
+using SoccerSquatManager.Core.Entities;
 
-namespace SoccerSquatManager.Console.CompositionExample.Trainings
+namespace SoccerSquatManager.Application.InheritanceExample.Trainings
 {
     public class RunningTraining : Training
     {

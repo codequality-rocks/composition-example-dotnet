@@ -1,4 +1,4 @@
-namespace SoccerSquatManager.Console.InheritanceExample.Trainings
+namespace SoccerSquatManager.Application.InheritanceExample.Trainings
 {
     public enum Intensity
     {

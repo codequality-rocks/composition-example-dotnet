@@ -1,8 +1,9 @@
 using System.Collections.Generic;
-using SoccerSquatManager.Console.Entities;
-using SoccerSquatManager.Console.SharedKernel;
 
-namespace SoccerSquatManager.Console.Infrastructure
+using SoccerSquatManager.Core.Entities;
+using SoccerSquatManager.SharedKernel;
+
+namespace SoccerSquatManager.Infrastructure
 {
     public class PlayerRepository : IRepository
     {

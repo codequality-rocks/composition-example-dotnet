@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SoccerSquatManager.Core\SoccerSquatManager.Core.csproj" />
+    <ProjectReference Include="..\SoccerSquatManager.SharedKernel\SoccerSquatManager.SharedKernel.csproj" />
+  </ItemGroup>
+
+</Project>

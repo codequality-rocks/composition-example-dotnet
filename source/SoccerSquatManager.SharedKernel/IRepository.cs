@@ -1,7 +1,8 @@
 using System.Collections.Generic;
-using SoccerSquatManager.Console.Entities;
 
-namespace SoccerSquatManager.Console.SharedKernel
+using SoccerSquatManager.Core.Entities;
+
+namespace SoccerSquatManager.SharedKernel
 {
     public interface IRepository
     {

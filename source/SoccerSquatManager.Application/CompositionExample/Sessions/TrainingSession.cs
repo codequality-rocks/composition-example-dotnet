@@ -1,9 +1,10 @@
 using System.Collections.Generic;
-using SoccerSquatManager.Console.CompositionExample.Trainings;
-using SoccerSquatManager.Console.Entities;
-using SoccerSquatManager.Console.SharedKernel;
 
-namespace SoccerSquatManager.Console.CompositionExample.Sessions
+using SoccerSquatManager.Application.CompositionExample.Trainings;
+using SoccerSquatManager.Core.Entities;
+using SoccerSquatManager.SharedKernel;
+
+namespace SoccerSquatManager.Application.CompositionExample.Sessions
 {
     public class TrainingSession
     {

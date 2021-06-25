@@ -5,4 +5,9 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SoccerSquatManager.Application\SoccerSquatManager.Application.csproj" />
+    <ProjectReference Include="..\SoccerSquatManager.Infrastructure\SoccerSquatManager.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

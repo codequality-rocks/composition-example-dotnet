@@ -1,4 +1,4 @@
-namespace SoccerSquatManager.Console.Entities
+namespace SoccerSquatManager.Core.Entities
 {
     public class Player
     {

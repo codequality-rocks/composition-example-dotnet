@@ -1,7 +1,8 @@
 using System.Collections.Generic;
-using SoccerSquatManager.Console.Entities;
 
-namespace SoccerSquatManager.Console.Infrastructure
+using SoccerSquatManager.Core.Entities;
+
+namespace SoccerSquatManager.Infrastructure
 {
     public class PlayerDb
     {

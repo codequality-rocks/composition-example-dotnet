@@ -13,4 +13,9 @@
     <PackageReference Include="coverlet.collector" Version="3.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SoccerSquatManager.Application\SoccerSquatManager.Application.csproj" />
+    <ProjectReference Include="..\SoccerSquatManager.Core\SoccerSquatManager.Core.csproj" />
+  </ItemGroup>
+
 </Project>
