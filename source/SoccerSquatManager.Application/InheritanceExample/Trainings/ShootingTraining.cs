@@ -23,5 +23,11 @@ namespace SoccerSquatManager.Application.InheritanceExample.Trainings
 
             return player;
         }
+
+        public Player TrainLongShot(Player player)
+        {
+            player.Shooting += 3;
+            return player;
+        }
     }
 }
