@@ -6,7 +6,7 @@ namespace SoccerSquatManager.Application.InheritanceExample.Trainings
     {
         public override Player Train(Player player, Intensity intensity)
         {
-                        switch (intensity)
+            switch (intensity)
             {
                 case Intensity.Low:
                     player.Shooting += 1;
